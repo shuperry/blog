@@ -67,7 +67,7 @@ theme: next
 
 # DuoShuo
 duoshuo_shortname: shuperry
-duoshuo_share: true
+duoshuo_share: false
 
 busuanzi_count:
   # count values only if the other configs are false
