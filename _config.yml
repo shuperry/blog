@@ -95,6 +95,6 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:shuperry/shuperry.github.io.git   # 设置repository对应的链接
+  repository: https://shuperry:AndyLau1989@github.com/shuperry/shuperry.github.io.git   # 设置repository对应的链接
   branch: master                                                 # 设置提交到的分支
   message: Site updated at {{ now("YYYY-MM-DD HH:mm:ss") }}      # 设置我们提交的信息
